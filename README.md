@@ -1,4 +1,4 @@
-# [E&E News investigation into FEMA elevation grants](https://www.politico.com/)
+# E&E News investigation into FEMA elevation grants
 
 To assess how FEMA elevation grants have been distributed nationwide, E&E News analyzed the 18 states that have received at least $5 million from FEMA to elevate homes and calculated the funding that went to individual communities within those states.
 
